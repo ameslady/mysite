@@ -1,0 +1,93 @@
+/* Header Style */
+.moonIcon {
+    text-align: center;
+}
+
+.header {
+    color: #292929;
+    text-align: center;
+    font-size: 50px;
+    /* font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+    font-weight: 540;
+    letter-spacing: 5px;
+}
+
+.subheading {
+    color: #A0A09F;
+    text-align: center;
+    font-size: 16px;
+    /* font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+    font-weight: 50;
+    letter-spacing: 5px;
+}
+
+
+/* Nav Bar Style */
+nav .navbar-nav {
+    padding-bottom: 20px;
+}
+
+.navbar-nav > li {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+nav .navbar-nav li a{
+    color: #292929 !important;
+}
+
+
+nav .navbar-nav > li > a:hover {
+    color: #A0A09F !important;
+}
+
+
+/* About Style */
+.aboutImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.aboutHeader {
+    color: #605E5E;
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: lighter;
+    /* font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+
+}
+
+.aboutText {
+    color: #605E5E;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+
+/* Photography Style */
+.row1, .row2, .row3 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.row1 img, .row2 img, .row3 img {
+    width: 30%;
+    height: 30%;
+    padding-right: 10px;
+}
+
+.row1 img:hover, .row2 img:hover, .row3 img:hover {
+    opacity: 0.5;
+}
+  
+/* Projects Style */
+
+
+
+/* Resume Style */
+
+
