@@ -18,8 +18,7 @@ class About extends Component {
                 </div>
 
                 <div className="aboutText">
-                    <p className="text-center"> My name is Amy Martin and I am a recent graduate of Camosun College, with a diploma in Information Computer Systems from the School of Trades and Technology.
-                    I have a passion for creative technology.</p>
+                    <p className="text-center"> My name is Amy Martin and I am a recent graduate of Camosun College, with a diploma in Information Computer Systems from the School of Trades and Technology.</p>
                 </div>
             </div>
         ); 
