@@ -22,21 +22,21 @@ class Photography extends Component {
         return (
             <div className="photos">
                 <div className="row1">
-                    <a href="/angela"><img className="img1" src={ang}></img></a>
-                    <a href="/big-blue"><img className="img2" src={dallas}></img></a>
-                    <a href="/emmy"><img className="img3"src={emmy}></img></a>
+                    <img className="img1" src={ang}></img>
+                    <img className="img2" src={dallas}></img>
+                    <img className="img3"src={emmy}></img>
                 </div>
 
                 <div className="row2">
-                    <a href="/sanfran"><img src={sunflower}></img></a>
-                    <a href="/shawnigan"><img src={shawni}></img></a>
-                    <a href="/mt-doug"><img src={mtdoug}></img></a>
+                    <img src={sunflower}></img>
+                    <img src={shawni}></img>
+                    <img src={mtdoug}></img>
                 </div>
 
                 <div className="row3">
-                    <a href="/okanagan"><img src={okanagan}></img></a>
-                    <a href="/abbey"><img src={abbey}></img></a>
-                    <a href="/saltspring"><img src={salty}></img></a>
+                    <img src={okanagan}></img>
+                    <img src={abbey}></img>
+                    <img src={salty}></img>
                 </div>
             </div>
         ); 
