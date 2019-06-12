@@ -22,9 +22,9 @@ class Photography extends Component {
         return (
             <div className="photos">
                 <div className="row1">
-                    <img className="img1" src={ang}></img>
-                    <img className="img2" src={dallas}></img>
-                    <img className="img3"src={emmy}></img>
+                    <img src={ang}></img>
+                    <img src={dallas}></img>
+                    <img src={emmy}></img>
                 </div>
 
                 <div className="row2">
