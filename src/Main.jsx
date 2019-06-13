@@ -19,7 +19,7 @@ class Main extends Component {
             <div className="container">
                 <Header/>
                 <Nav/>
-                <About/>
+                <Projects/>
                 <Footer/>
             </div>
         ); 
