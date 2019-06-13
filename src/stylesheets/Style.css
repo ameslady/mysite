@@ -21,7 +21,6 @@
     letter-spacing: 5px;
 }
 
-
 /* Nav Bar Style */
 nav .navbar-nav {
     padding-bottom: 20px;
@@ -67,24 +66,44 @@ nav .navbar-nav > li > a:hover {
     width: 40%;
 }
 
+.icons {
+    text-align: center;
+}
+
+.icons img {
+    width: 3%;
+    height: 3%;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
 
 /* Photography Style */
-.row1, .row2, .row3 {
+.photos .row1, .row2, .row3 {
     text-align: center;
     padding-bottom: 10px;
 }
 
-.row1 img, .row2 img, .row3 img {
+.photos .row1 img, .row2 img, .row3 img {
     width: 30%;
     height: 30%;
     padding-right: 10px;
 }
 
-.row1 img:hover, .row2 img:hover, .row3 img:hover {
+.photos .row1 img:hover, .row2 img:hover, .row3 img:hover {
     opacity: 0.5;
 }
   
 /* Projects Style */
+.projects .row1 img {
+    width: 30%;
+    height: 30%;
+}
+
+.projects .row1 p {
+    display: inline;
+    
+}
 
 
 

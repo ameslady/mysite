@@ -1,4 +1,5 @@
 import React from 'react';
+import flower from '../images/flower.png';
 import '../stylesheets/Style.css';
 
 const Header = (props) => {
