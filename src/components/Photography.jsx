@@ -22,21 +22,21 @@ class Photography extends Component {
         return (
             <div className="photos">
                 <div className="row1">
-                    <img src={ang}></img>
-                    <img src={dallas}></img>
-                    <img src={emmy}></img>
+                    <img class="img-fluid p-1" src={ang}></img>
+                    <img class="img-fluid p-1" src={dallas}></img>
+                    <img class="img fluid p-1" src={emmy}></img>
                 </div>
 
                 <div className="row2">
-                    <img src={sunflower}></img>
-                    <img src={shawni}></img>
-                    <img src={mtdoug}></img>
+                    <img class="img-fluid p-1" src={sunflower}></img>
+                    <img class="img-fluid p-1" src={shawni}></img>
+                    <img class="img-fluid p-1" src={mtdoug}></img>
                 </div>
 
                 <div className="row3">
-                    <img src={okanagan}></img>
-                    <img src={abbey}></img>
-                    <img src={salty}></img>
+                    <img class="img-fluid p-1" src={okanagan}></img>
+                    <img class="img-fluid p-1" src={abbey}></img>
+                    <img class="img-fluid p-1" src={salty}></img>
                 </div>
             </div>
         ); 

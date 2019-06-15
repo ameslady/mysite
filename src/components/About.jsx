@@ -9,7 +9,7 @@ class About extends Component {
         return (
             <div>
                 <div className="aboutImage"> 
-                    <img src={me} class="img-fluid rounded"  alt="Responsive image"></img>
+                    <img src={me} class="img-fluid"></img>
                 </div>
 
                 <br>
